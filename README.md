@@ -13,6 +13,9 @@ The dataset used in this paper are:
 2. PistolDetection is the dataset used to train the handgun-detection model is available in: 
 https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Pistol%20detection
 
+3. The results of our MULTICAST approah can seen at this link:
+https://drive.google.com/drive/folders/1qvvlP4gCjDKZhZJbGSXf3TIb1e1is_Ru?usp=sharing
 
-Please cite this paper as:
+
+4. Please cite this paper as:
 MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate falsealarms for handgun detection in video-surveillance. R. Olmosa, S. Tabik, F. Perez-Hernandeza, A. Lamas, F. Herrera. Arxiv
