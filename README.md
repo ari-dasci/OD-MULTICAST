@@ -3,9 +3,9 @@
 The dataset used in this paper are:
 
 
-1. HandgunTrajectory is a dataset for training models to predict the trajectory of handguns in vidos. 
+1. HandgunTrajectory is the dataset for training models to predict the trajectory of handguns in vidos. 
 
-2. The dataset used to train the handgun-detection model is available in: 
+2. PistolDetection is the dataset used to train the handgun-detection model is available in: 
 https://github.com/ari-dasci/OD-WeaponDetection/tree/master/Pistol%20detection
 
 
