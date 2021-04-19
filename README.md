@@ -1,6 +1,4 @@
-# OD-MULTICAST
-
-MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate falsealarms for handgun detection in video-surveillance.
+#  MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate falsealarms for handgun detection in video-surveillance. 
 
 This is the dataset used to train our model to predict handgun detector:
 
