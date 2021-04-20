@@ -18,4 +18,4 @@ https://drive.google.com/drive/folders/1qvvlP4gCjDKZhZJbGSXf3TIb1e1is_Ru?usp=sha
 
 
 4. Please cite this paper as:
-MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate falsealarms for handgun detection in video-surveillance. R. Olmosa, S. Tabik, F. Perez-Hernandeza, A. Lamas, F. Herrera. Arxiv
+MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate false alarms for handgun detection in video-surveillance. R. Olmos, S. Tabik, F. {P{\'e}rez-Hern{\'a}ndez, A. Lamas, F. Herrera. Arxiv
