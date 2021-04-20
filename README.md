@@ -1,9 +1,8 @@
-#  MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate falsealarms for handgun detection in video-surveillance. 
+#  MULTICAST: MULTI Confirmation-level AlarmSysTem based on CNN and LSTM to mitigate false alarms for handgun detection in video-surveillance. 
 
 The dataset used in this paper are:
 
-
-1. HandgunTrajectory is the dataset for training models to predict the trajectory of handguns in vidos. It contains five files: 
+1. HandgunTrajectory is the dataset for training models to predict the trajectory of handguns in videos. It contains five files: 
 * HandGunTrayectory_1.txt
 * HandGunTrayectory_2.txt
 * HandGunTrayectory_3.txt
